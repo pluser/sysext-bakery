@@ -31,6 +31,9 @@ docker latest
 falco 0.39.1
 falco latest
 
+incus-agent v6.13
+incus-agent latest
+
 k3s v1.32.2+k3s1
 k3s latest
 
